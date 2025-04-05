@@ -1,0 +1,10 @@
+{
+	"id": "typofilter-plugin",
+	"name": "Typofilter Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Applies different typography rules to text.",
+	"author": "Graker",
+	"authorUrl": "https://graker.ru",
+	"isDesktopOnly": false
+}
