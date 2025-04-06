@@ -1,6 +1,6 @@
 # Obsidian Typofilter plugin
 
-Adds a Ribbon icon and a command to use Typofilter on selected or whole text in the editor.
+Adds a Ribbon icon and a command to use Typofilter on selected or whole text in the [Obsidian](https://obsidian.md/) editor.
 
 [Typofilter.js library](https://github.com/graker/typofilter.js) is used to do the following:
 
